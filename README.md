@@ -7,5 +7,5 @@ You MUST have your own GoogleMaps API Key first, then set it as the value of 'Ap
 ![App](GoogleMaps_API_Key_Setting.jpg)
 
 # How to get GoogleMaps API Key?
-Please reference Google Maps API - Getting Started(https://developers.google.com/maps/documentation/ios-sdk/start)
+Please reference Google Maps API - [Getting Started](https://developers.google.com/maps/documentation/ios-sdk/start)
 
